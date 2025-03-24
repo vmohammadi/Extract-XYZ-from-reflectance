@@ -1,1 +1,2 @@
-%% This function calculates the delta E LAB from two sets of XYZ values
+%%  This function extracts the XYZ values from Reflectance
+
