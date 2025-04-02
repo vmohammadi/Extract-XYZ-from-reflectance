@@ -1,2 +1,3 @@
-%%  This function extracts the XYZ values from Reflectance
+#  Extraction of the XYZ values from Reflectance
 
+The R2XYZ function converts actual reflectance data into XYZ color space values by utilizing the spectral power distribution (SPD) of an illuminant and the color matching functions of a specified observer. It calculates the XYZ values by integrating the product of the reflectance spectrum and the adjusted observer functions, ensuring that all wavelengths are aligned. This conversion is critical for accurately representing color in a standardized format, facilitating further analysis and comparison in various applications, including color science, imaging, and material characterization.
